@@ -13,4 +13,4 @@ The original app ui can be found here: [ARTSY modern react native ui tutorial
 Or have a quick look in the author's tutorial: [ARTSY Youtube tutorial](https://www.youtube.com/watch?v=ZbRZM750xpg&t=343s)
 
 ## App Screenshot
-<img src="https://github.com/QuangTran304/Art-gallery/blob/master/Screen%20Shot%202022-01-09%20at%2011.49.04%20AM.png" width="450" />
+<img src="https://github.com/QuangTran304/Art-gallery/blob/master/Screen%20Shot%202022-01-09%20at%201.29.37%20PM.png" width="450" />
